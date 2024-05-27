@@ -1,5 +1,5 @@
 Русская версия документаций:
-CodeNature - IDE разработанный Pemsietie.
+CodeNature - IDE разработанный Id programming.
 На каких языках программирование можно писать:
 1.C++
 2.C
@@ -31,10 +31,10 @@ CodeNature - Мощный инструмент для программирова
 Исходный код:
 Пока нету.
 Благодарности:
-Спасибо Pemsietie за создания мощного ide с исходным кодом!
+Спасибо Id programming за создания мощного ide с исходным кодом!
 -------------------------------------------------------------------------
 English version of the documentation:
-CodeNature is an IDE developed by Pemsietie.
+CodeNature is an IDE developed by Id programming.
 What languages ??can programming be written in:
 1.C++
 2.C
@@ -66,4 +66,4 @@ Serves as a text editor too!
 Source:
 Not yet.
 Acknowledgements:
-Thanks to Pemsietie for creating a powerful ide with source code!
+Thanks to Id programming for creating a powerful ide with source code!
