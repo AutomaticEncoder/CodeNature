@@ -29,7 +29,7 @@ CodeNature - IDE разработанный Id programming.
 CodeNature - Мощный инструмент для программирования 11 языков программирования.
 Служит также и текстовым редактором!
 Исходный код:
-Пока нету.
+https://github.com/idprogramming8/CodeNature.
 Благодарности:
 Спасибо Id programming за создания мощного ide с исходным кодом!
 -------------------------------------------------------------------------
@@ -64,6 +64,6 @@ Conclusions:
 CodeNature - Powerful programming tool for 11 programming languages.
 Serves as a text editor too!
 Source:
-Not yet.
+(https://github.com/idprogramming8/CodeNature.
 Acknowledgements:
 Thanks to Id programming for creating a powerful ide with source code!
